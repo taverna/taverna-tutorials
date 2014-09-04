@@ -3,7 +3,7 @@
 The Taverna course spans three days of training, with each day starting with introductions, review or demonstrations,
 followed by lab exercises which students will go through at their own pace.
 
-If the slides and materials was not included with this Agenda, see https://github.com/taverna/taverna-tutorials/
+If the slides and materials was not included with this agenda, see https://github.com/taverna/taverna-tutorials/
 
 
 ## Day 1: Introduction to Taverna
