@@ -1,8 +1,10 @@
+# Taverna course - Agenda
+
 The Taverna course spans three days of training, with each day starting with introductions, review or demonstrations, 
 followed by lab exercises which students will go through at their own pace.
 
 
-# Day 1: Introduction to Taverna
+## Day 1: Introduction to Taverna
 
 10:00 - 10:15 Welcome to the workshop; agenda and how to do exercises
 
@@ -32,7 +34,7 @@ followed by lab exercises which students will go through at their own pace.
   * XPath and XML
 
 
-# Day 2: Workflows in depth
+## Day 2: Workflows in depth
 
 10:00 - 10:30 Review of yesterday's exercises, gotchas and encountered issues
 
@@ -65,7 +67,7 @@ followed by lab exercises which students will go through at their own pace.
   * .. or Design your own workflow
 
 
-# Day 3: Integrations and Workflows in practice
+## Day 3: Integrations and Workflows in practice
 
 10:00 - 10:30 Review of yesterday's exercises, gotchas and encountered issues
 
