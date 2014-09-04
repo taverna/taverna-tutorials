@@ -17,12 +17,12 @@ followed by lab exercises which students will go through at their own pace.
 11:30 - 12:00 Demonstration
 
  *  A Practical Introduction to Taverna Workflows] [slides+demo]
- *  Finding and using services (BioCatalogue) [demo]  
- *  Sharing your workflows in myExperiment [demo]
+ *  Finding and using services from [BioCatalogue](https://www.biocatalogue.org/) [demo]  
+ *  Sharing your workflows in [myExperiment](http://myexperiment.org/) [demo]
 
 12:00 - 13:00 Taverna Exercises
 
- * Installing Taverna - Taverna Workbench Bioinformatics edition from http://www.taverna.org.uk/download
+ * Installing Taverna - Taverna Workbench Bioinformatics edition from [http://www.taverna.org.uk/download](http://www.taverna.org.uk/download
  * Building a simple workflow
  * REST services from BioCatalogue
 
