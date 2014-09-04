@@ -11,14 +11,20 @@ Last updated for: University of Bonn Taverna course, 2014-09-01
 
 ## Overview
 
-The materials covers roughly these areas:
  * Getting started with Taverna Workbench
  * Finding services and building simple workflows
  * Sharing and reusing workflows from [myExperiment](http://www.myexperiment.org/)
  * Using different types of services in a workflow
    * REST, Beanshell, Spreadsheet, XPath, R, External Tools, user interactions
- * Workflow 
-
+   * Nested workflows and Components
+ * Advanced workflow features
+  * List handling, Looping, Asynchronous services, Control links, Retries, Parallel invocations
+ * Integrations
+  * Taverna command line tool, Taverna Online, Running workflows in a Portal
+ * Workflows in practice
+  *  Biodiversity research example
+  *  Build your own workflows
+    
 
 ## Agenda and materials
 
