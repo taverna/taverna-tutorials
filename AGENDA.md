@@ -16,7 +16,7 @@ followed by lab exercises which students will go through at their own pace.
 
 11:30 - 12:00 Demonstration
 
- *  [A Practical Introduction to Taverna Workflows](day1/-) [slides+demo]
+ *  A Practical Introduction to Taverna Workflows] [slides+demo]
  *  Finding and using services (BioCatalogue) [demo]  
  *  Sharing your workflows in myExperiment [demo]
 
