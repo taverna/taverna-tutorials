@@ -22,7 +22,7 @@ followed by lab exercises which students will go through at their own pace.
 
 12:00 - 13:00 Taverna Exercises
 
- * Installing Taverna - Taverna Workbench Bioinformatics edition from [http://www.taverna.org.uk/download](http://www.taverna.org.uk/download
+ * Installing Taverna - Taverna Workbench Bioinformatics edition from [http://www.taverna.org.uk/download](http://www.taverna.org.uk/download)
  * Building a simple workflow
  * REST services from BioCatalogue
 
