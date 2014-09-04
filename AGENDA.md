@@ -10,13 +10,13 @@ followed by lab exercises which students will go through at their own pace.
 
 10:00 - 10:15 Welcome to the workshop; agenda and how to do exercises
 
-10:15 - 11:00 Introduction to web services, workflows and e-science approaches
+10:15 - 11:00 Introduction to web services, workflows and e-science approaches `0-Introduction_to_eScience.pdf`
 
 *11:00 - 11:30 Coffee*
 
 11:30 - 12:00 Demonstration
 
- *  A Practical Introduction to Taverna Workflows] [slides+demo] `0-Introduction_to_eScience.pdf`
+ *  A Practical Introduction to Taverna Workflows] [slides+demo] `1-Introduction_to_Taverna.pdf`
  *  Finding and using services from [BioCatalogue](https://www.biocatalogue.org/) [demo] 
  *  Sharing your workflows in [myExperiment](http://myexperiment.org/) [demo]
 
@@ -44,8 +44,8 @@ followed by lab exercises which students will go through at their own pace.
 
 10:30 - 11:00 Taverna advanced exercises
 
- * Nested Workflows
- * Reusing workflows from myExperiment
+ * Nested Workflows `T-08-Nested_workflows.pdf`
+ * Reusing workflows from myExperiment `T-09-myExperiment.pdf`
    * Combining workflows from myExperiment
    * GO associations
    * Simple text mining
@@ -55,14 +55,14 @@ followed by lab exercises which students will go through at their own pace.
 
 11:30 - 13:00 Taverna advanced exercises (continued)
 
-* Advanced Taverna features
+* Advanced Taverna features `T-10-Advanced_Taverna.pdf`
   * List handling
   * Looping asynchronous services
   * Looping
   * Control links
   * Retries
   * Parallel Service invocation
-* Taverna components
+* Taverna components `T-11-Components.pdf`
 
 *13:00 - 14:00 Lunch*
 
@@ -88,10 +88,10 @@ followed by lab exercises which students will go through at their own pace.
 
 12:00 - 13:00 Taverna integration exercises (or continue from yesterday)
 
- * External tool
- * Interaction service
- * R scripts (requires admin privileges)
- * Biodiversity research example
+ * Tool service `T-12-Tool_service.pdf`
+ * Interaction service `T-13-Interactions.pdf`
+ * R scripts (requires admin privileges) `T-14-R_script.pdf`
+ * Biodiversity research example `T-15-Biodiversity.pdf`
 
 *13:00 - 14:00 Lunch*
 
