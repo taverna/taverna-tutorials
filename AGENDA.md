@@ -16,24 +16,24 @@ followed by lab exercises which students will go through at their own pace.
 
 11:30 - 12:00 Demonstration
 
- *  A Practical Introduction to Taverna Workflows] [slides+demo]
- *  Finding and using services from [BioCatalogue](https://www.biocatalogue.org/) [demo]  
+ *  A Practical Introduction to Taverna Workflows] [slides+demo] `0-Introduction_to_eScience.pdf`
+ *  Finding and using services from [BioCatalogue](https://www.biocatalogue.org/) [demo] 
  *  Sharing your workflows in [myExperiment](http://myexperiment.org/) [demo]
 
 12:00 - 13:00 Taverna Exercises
 
- * Installing Taverna - Taverna Workbench Bioinformatics edition from [http://www.taverna.org.uk/download](http://www.taverna.org.uk/download)
- * Building a simple workflow
- * REST services from BioCatalogue
+ * Installing Taverna - Taverna Workbench Bioinformatics edition from [http://www.taverna.org.uk/download](http://www.taverna.org.uk/download) `T-01-Installing_Taverna.pdf`
+ * Building a simple workflow `T-02-Simple_workflow.pdf`
+ * REST services from BioCatalogue `T-03-REST_biocatalogue.pdf`
 
 *13:00 - 14:00 Lunch*
 
 14:00 - 16:00 Taverna Exercises (continued)
 
-  * Shims and Beanshells
-  * Spreadsheet import
-  * REST services
-  * XPath and XML
+  * Shims and Beanshells `T-04-Shims_and_Beanshell.pdf`
+  * Spreadsheet import `T-05-Spreadsheet_import.pdf`
+  * REST services `T-06-REST_services.pdf`
+  * XPath and XML `T-07-XPath.pdf`
 
 
 ## Day 2: Workflows in depth
