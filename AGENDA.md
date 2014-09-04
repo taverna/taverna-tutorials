@@ -12,24 +12,24 @@ followed by lab exercises which students will go through at their own pace.
 
 11:30 - 12:00 Demonstration
 
-  *  A Practical Introduction to Taverna Workflows [slides+demo]
-  *  Finding and using services (BioCatalogue) [demo]  
-  *  Sharing your workflows in myExperiment [demo]
+ *  A Practical Introduction to Taverna Workflows [slides+demo]
+ *  Finding and using services (BioCatalogue) [demo]  
+ *  Sharing your workflows in myExperiment [demo]
 
 12:00 - 13:00 Taverna Exercises
 
-    Installing Taverna http://www.taverna.org.uk/download - Taverna Workbench Bioinformatics edition
-    Building a simple workflow
-    REST services from BioCatalogue
+ * Installing Taverna http://www.taverna.org.uk/download - Taverna Workbench Bioinformatics edition
+ * Building a simple workflow
+ * REST services from BioCatalogue
 
 13:00 - 14:00 Lunch
 
 14:00 - 16:00 Taverna Exercises (continued)
 
-    Shims and Beanshells
-    Spreadsheet import
-    REST services
-    XPath and XML
+  * Shims and Beanshells
+  * Spreadsheet import
+  * REST services
+  * XPath and XML
 
 # Day 2: Workflows in depth
 
@@ -37,25 +37,25 @@ followed by lab exercises which students will go through at their own pace.
 
 10:30 - 11:00 Taverna advanced exercises
 
-    Nested Workflows
-    Reusing workflows from myExperiment
-        Combining workflows from myExperiment
-        GO associations
-        Simple text mining
+ * Nested Workflows
+ * Reusing workflows from myExperiment
+   * Combining workflows from myExperiment
+   * GO associations
+   * Simple text mining
      
 
 11:00 - 11:30 Coffee
 
 11:30 - 13:00 Taverna advanced exercises (continued)
 
-    Advanced Taverna features
-        List handling
-        Looping asynchronous services
-        Looping
-        Control links
-        Retries
-        Parallel Service invocation
-    Taverna components
+ * Advanced Taverna features
+  * List handling
+  * Looping asynchronous services
+  * Looping
+  *       Control links
+  *       Retries
+  *       Parallel Service invocation
+*    Taverna components
 
 13:00 - 14:00 Lunch
 
