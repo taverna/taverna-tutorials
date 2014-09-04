@@ -3,6 +3,9 @@ Taverna Tutorials
 
 Tutorials and training material for using the [Taverna workbench](http://www.taverna.org.uk/).
 
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.11590.png)](http://dx.doi.org/10.5281/zenodo.11590)
+
+
 This material is a suggestion for a 2 or 3-day course, targeting bioinformaticians training at MSc level, but can be adjusted for the audience and scientific domains. Tutorial slides are per topic (e.g. Nested workflows), and can be used individually, although many tutorials naturally build upon others.
 
 It is assumed students have access to individual workstations or laptops, as most parts of the tutorials are lab exercises where students progress at their own pace, with help and guidance from tutors and each other.
