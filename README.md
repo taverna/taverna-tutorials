@@ -1,23 +1,35 @@
-taverna-tutorials
+Taverna Tutorials
 =================
 
-Taverna tutorials and training material
+Tutorials and training material for using the [Taverna workbench](http://www.taverna.org.uk/).
 
-The following material is a suggestion for a 2 or 3-day training workshop targeting bioinformaticians, but can be adjusted for the audience and also used individually.
+This material is a suggestion for a 2 or 3-day course, targeting bioinformaticians training at MSc level, but can be adjusted for the audience and scientific domains. Tutorial slides are per topic (e.g. Nested workflows), and can be used individually, although many tutorials naturally build upon others.
 
-It is assumed each student has access to workstations or laptops, as most parts of the tutorial will be lab exercises where students progress at their own pace, with help and guidance from tutors and each other.
+It is assumed students have access to individual workstations or laptops, as most parts of the tutorials are lab exercises where students progress at their own pace, with help and guidance from tutors and each other.
 
-A dedicated myExperiment group is typically created for the workshop.
+Last updated for: University of Bonn Taverna course, 2014-09-01
 
-Last updated for: University of Bonn training, 2014-09-01
+## Overview
 
+The materials covers roughly these areas:
+ * Getting started with Taverna Workbench
+ * Finding services and building simple workflows
+ * Sharing and reusing workflows from [myExperiment](http://www.myexperiment.org/)
+ * Using different types of services in a workflow
+   * REST, Beanshell, Spreadsheet, XPath, R, External Tools, user interactions
+ * Workflow 
+
+
+## Agenda and materials
+
+See the [suggested agenda](AGENDA.md) for a listing of the material and how we suggest scheduling this over a 2- 3-day training workshop.
 
 
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Taverna Tutorials</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.mygrid.org.uk/" property="cc:attributionName" rel="cc:attributionURL">myGrid, University of Manchester</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/taverna/taverna-tutorials" rel="dct:source">https://github.com/taverna/taverna-tutorials</a>.
 
-This means you are free to download, redistribute, adapt and most importantly use this material for your own Taverna training, as long as you include the above notion and provide links to the modified source materials (e.g. your Github fork).
+This essentially means you are free to download, redistribute, adapt and most importantly use this material for your own Taverna training, as long as you include the above notion and provide links to the modified source materials (e.g. your Github fork).
 
 
 ## Tutor checklist
