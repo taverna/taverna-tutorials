@@ -10,7 +10,7 @@ This material is a suggestion for a 2 or 3-day course, targeting bioinformaticia
 
 It is assumed students have access to individual workstations or laptops, as most parts of the tutorials are lab exercises where students progress at their own pace, with help and guidance from tutors and each other.
 
-Last updated for: University of Bonn Taverna course, 2014-09-01
+Last updated for: BioExcel Workflow Training, 2016-10-20
 
 ## Overview
 
